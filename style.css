@@ -1,0 +1,18 @@
+/*
+Theme Name:XPD_THM
+Theme URI: https://www.tarimhabermerkezi.com/themes/xpd_thm
+Author:Tarım Haber Merkezi
+Author URI:https://www.tarimhabermerkezi.com
+Description: Çok Temel bir Wordpress Teması. "https://www.tarimhabermerkezi.com" için tasarlandı.
+Version: 0.0.01
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.img-fluid-dz {
+    max-width: %100;
+}
+
+article time {
+    
+}
